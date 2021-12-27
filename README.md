@@ -44,7 +44,7 @@ click [here](https://me-hood.herokuapp.com/)
 ## Set up and Installation
 
 To access this application on your command line, you need to clone it.
-`git clone https://github.com/NazarineWasonga/Neighbourhood.git`
+`git clone https://github.com/DannyMyles/Neighbourhood`
 
 ### Prerequisites
 

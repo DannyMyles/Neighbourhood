@@ -18,7 +18,7 @@ Find everything happening in the hood.
 
 ## Technologies Used
 
-1. Python 3.7
+1. Python 3.8
 2. HTML and CSS
 3. Django
 4. Postgres

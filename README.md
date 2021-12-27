@@ -48,13 +48,13 @@ To access this application on your command line, you need to clone it.
 
 ### Prerequisites
 
-A user will require git, Django, postgresql and python3.7+ installed in their machine.
+A user will require git, Django, postgresql and python3.8+ installed in their machine.
 To install these two, you can use the following commands
 
     #git
 $ sudo apt install git-all
-    #python3.7
-    $ sudo apt-get install python3.7.
+    #python3.8
+    $ sudo apt-get install python3.8.
     #django
 $ pip install django==3.2
     #postgres
@@ -63,7 +63,7 @@ $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 ## Running the Application
 * Creating the virtual environment
 
-        $ python3.7 -m venv --without-pip virtual
+        $ python3.8 -m venv --without-pip virtual
         $ source virtual/bin/activate
         $ curl https://bootstrap.pypa.io/get-pip.py | python
 

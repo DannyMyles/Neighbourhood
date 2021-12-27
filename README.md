@@ -73,16 +73,16 @@ $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 
 * To run the application, in your terminal:
 
-        $ python3.7 manage.py runserver
+        $ python3.8 manage.py runserver
 
 ## Testing the Application
 * To run the tests for the class files:
 
-        $ python3.7 manage.py test neighbourhood
+        $ python3.8 manage.py test neighbourhood
 
 ## License
 
-Copyright (c) 2021 NazarineWasonga
+Copyright (c) 2021 DannyMyles
 
 ------------
 
